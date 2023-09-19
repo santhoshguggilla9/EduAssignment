@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="IExplorerTest(failed)">
+    <parameter name="browser" value="iebrowser"/>
+    <classes>
+      <class name="crossBrowser.CrossBrowserTestingDemo">
+        <methods>
+          <include name="initilize"/>
+          <include name="citiLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- crossBrowser.CrossBrowserTestingDemo -->
+    </classes>
+  </test> <!-- IExplorerTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
