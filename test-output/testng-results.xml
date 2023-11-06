@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-18T15:22:42 IST" name="Suite" finished-at="2023-09-18T15:23:31 IST" duration-ms="48536">
+  <suite started-at="2023-10-09T21:26:19 IST" name="Suite" finished-at="2023-10-09T21:27:09 IST" duration-ms="50723">
     <groups>
     </groups>
-    <test started-at="2023-09-18T15:22:42 IST" name="ChromeTest" finished-at="2023-09-18T15:23:00 IST" duration-ms="17645">
+    <test started-at="2023-10-09T21:26:19 IST" name="ChromeTest" finished-at="2023-10-09T21:26:36 IST" duration-ms="17074">
       <class name="crossBrowser.CrossBrowserTestingDemo">
-        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-09-18T15:22:42 IST" name="initilize" finished-at="2023-09-18T15:22:51 IST" duration-ms="8251" status="PASS">
+        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-10-09T21:26:19 IST" name="initilize" finished-at="2023-10-09T21:26:24 IST" duration-ms="5116" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,23 +18,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilize -->
-        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-09-18T15:22:51 IST" name="citiLogin" finished-at="2023-09-18T15:23:00 IST" duration-ms="9059" status="PASS">
+        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-10-09T21:26:24 IST" name="citiLogin" finished-at="2023-10-09T21:26:35 IST" duration-ms="11476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- citiLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-09-18T15:23:00 IST" name="tearDown" finished-at="2023-09-18T15:23:00 IST" duration-ms="261" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-10-09T21:26:35 IST" name="tearDown" finished-at="2023-10-09T21:26:36 IST" duration-ms="406" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-09-18T15:23:00 IST" name="tearDown" finished-at="2023-09-18T15:23:00 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@3a52dba3]" started-at="2023-10-09T21:26:36 IST" name="tearDown" finished-at="2023-10-09T21:26:36 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- crossBrowser.CrossBrowserTestingDemo -->
     </test> <!-- ChromeTest -->
-    <test started-at="2023-09-18T15:23:00 IST" name="FirefoxTest" finished-at="2023-09-18T15:23:15 IST" duration-ms="14703">
+    <test started-at="2023-10-09T21:26:36 IST" name="FirefoxTest" finished-at="2023-10-09T21:26:53 IST" duration-ms="17485">
       <class name="crossBrowser.CrossBrowserTestingDemo">
-        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-09-18T15:23:00 IST" name="initilize" finished-at="2023-09-18T15:23:06 IST" duration-ms="6432" status="PASS">
+        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-10-09T21:26:36 IST" name="initilize" finished-at="2023-10-09T21:26:43 IST" duration-ms="7503" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,23 +45,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilize -->
-        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-09-18T15:23:06 IST" name="citiLogin" finished-at="2023-09-18T15:23:12 IST" duration-ms="5703" status="PASS">
+        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-10-09T21:26:43 IST" name="citiLogin" finished-at="2023-10-09T21:26:50 IST" duration-ms="7036" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- citiLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-09-18T15:23:12 IST" name="tearDown" finished-at="2023-09-18T15:23:15 IST" duration-ms="2553" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-10-09T21:26:50 IST" name="tearDown" finished-at="2023-10-09T21:26:53 IST" duration-ms="2936" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-09-18T15:23:15 IST" name="tearDown" finished-at="2023-09-18T15:23:15 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@33c911a1]" started-at="2023-10-09T21:26:53 IST" name="tearDown" finished-at="2023-10-09T21:26:53 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- crossBrowser.CrossBrowserTestingDemo -->
     </test> <!-- FirefoxTest -->
-    <test started-at="2023-09-18T15:23:15 IST" name="IExplorerTest" finished-at="2023-09-18T15:23:31 IST" duration-ms="16054">
+    <test started-at="2023-10-09T21:26:53 IST" name="IExplorerTest" finished-at="2023-10-09T21:27:09 IST" duration-ms="16035">
       <class name="crossBrowser.CrossBrowserTestingDemo">
-        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-09-18T15:23:15 IST" name="initilize" finished-at="2023-09-18T15:23:20 IST" duration-ms="5316" status="PASS">
+        <test-method is-config="true" signature="initilize(java.lang.String)[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-10-09T21:26:53 IST" name="initilize" finished-at="2023-10-09T21:26:57 IST" duration-ms="3802" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -72,15 +72,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilize -->
-        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-09-18T15:23:20 IST" name="citiLogin" finished-at="2023-09-18T15:23:30 IST" duration-ms="10371" status="PASS">
+        <test-method signature="citiLogin()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-10-09T21:26:57 IST" name="citiLogin" finished-at="2023-10-09T21:27:09 IST" duration-ms="11806" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- citiLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-09-18T15:23:30 IST" name="tearDown" finished-at="2023-09-18T15:23:31 IST" duration-ms="357" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-10-09T21:27:09 IST" name="tearDown" finished-at="2023-10-09T21:27:09 IST" duration-ms="418" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-09-18T15:23:31 IST" name="tearDown" finished-at="2023-09-18T15:23:31 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crossBrowser.CrossBrowserTestingDemo@707194ba]" started-at="2023-10-09T21:27:09 IST" name="tearDown" finished-at="2023-10-09T21:27:09 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
